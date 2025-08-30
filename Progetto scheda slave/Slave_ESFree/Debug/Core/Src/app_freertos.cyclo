@@ -1,0 +1,9 @@
+../Core/Src/app_freertos.c:146:6:MX_FREERTOS_Init	1
+../Core/Src/app_freertos.c:209:6:StartReadingTask	3
+../Core/Src/app_freertos.c:240:6:StartCommunicationTask	16
+../Core/Src/app_freertos.c:349:6:StartActuationTask	9
+../Core/Src/app_freertos.c:391:6:StartEmergencyTask	2
+../Core/Src/app_freertos.c:407:6:dataCheck	2
+../Core/Src/app_freertos.c:418:6:ledActuation	2
+../Core/Src/app_freertos.c:430:6:motori	1
+../Core/Src/app_freertos.c:472:6:emergency	1

@@ -1,0 +1,4 @@
+../Core/Src/controller.c:47:16:compute	7
+../Core/Src/controller.c:103:16:calculate_wheel_speeds	13
+../Core/Src/controller.c:162:6:is_invalid_value	3
+../Core/Src/controller.c:179:6:are_values_zero	5

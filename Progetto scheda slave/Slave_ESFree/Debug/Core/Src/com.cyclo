@@ -1,0 +1,3 @@
+../Core/Src/com.c:22:6:deserialize_partial	1
+../Core/Src/com.c:54:6:serialize_partial	1
+../Core/Src/com.c:77:6:debug_print_comunication	1
